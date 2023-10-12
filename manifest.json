@@ -1,6 +1,6 @@
 {
   "name": "Deze app",
-  "icons": "icon.png", 
+  "icons": "resources/icon.png", 
   "start_url": "/",
   "display": "standalone"
 }
